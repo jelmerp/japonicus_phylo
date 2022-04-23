@@ -1,0 +1,11 @@
+slurm-*
+data/
+results/
+sandbox/
+software/
+.Rproj.user
+misc/
+reports/old/
+*html
+
+manuscript/
